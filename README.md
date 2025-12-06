@@ -37,7 +37,6 @@ This repository is meant to help researchers and students replicate, validate, o
 ```
 ├── code/                   # MATLAB source code for PGA-based multi-UAV path planning
 ├── images/                 # Images and figures used in documentation
-├── published-paper/        # Published research paper (ETT journal)
 ├── sw-reg-certificate/     # Software registration certificate
 └── README.md               # Project documentation
 ```
